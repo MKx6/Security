@@ -27,7 +27,8 @@ Features
 	3.	Testing Framework:
 	•	Includes scripts and event files to verify system behavior.
 
-How to Use
+How to Use:
+
 	1.	Clone this repository:
 
 git clone https://github.com/MKx6/Security.git  
@@ -43,8 +44,7 @@ cd Security
 python tests/test.py  
 python tests/testRing.py  
 
-Contributions
-
+Contributions:
 This project was a collaborative effort by:
 	•	Maryam Matar
 	•	Ghezlan Alotaibi
